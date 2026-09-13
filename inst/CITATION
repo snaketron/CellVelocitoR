@@ -1,16 +1,11 @@
-citEntry(
-  entry = "article",
+bibentry(
+  bibtype = "Article",
   title = "Uncertainty-aware quantitative analysis of high-throughput live cell migration data",
-  author = "Kitanovski S, et al.",
-  year = 2026,
+  author = "Kitanovski, Simo and others",
+  year = "2026",
   journal = "PLOS Computational Biology",
-  volume = 22,
-  issue = 7,
+  volume = "22",
+  number = "7",
   pages = "e1014472",
-  doi = "10.1371/journal.pcbi.1014472",
-  textVersion = paste(
-    "Kitanovski, Simo, et al. Uncertainty-Aware Quantitative Analysis of ",
-    "High-Throughput Live Cell Migration Data. PLOS Computational Biology, ",
-    "22(7), e1014472. https://doi.org/10.1371/journal.pcbi.1014472"
-  )
+  doi = "10.1371/journal.pcbi.1014472"
 )
